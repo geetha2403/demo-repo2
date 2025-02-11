@@ -1,0 +1,5 @@
+steps to follow :
+git add
+git commit
+git push
+ also to create a repo offline, git remote add origin and ssh url of the dummy repo created online
